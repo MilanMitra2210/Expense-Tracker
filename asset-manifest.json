@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Expense-Tracker/static/css/main.e9712e2c.css",
+    "main.js": "/Expense-Tracker/static/js/main.82e03c9e.js",
+    "static/media/food.jpg": "/Expense-Tracker/static/media/food.827f27a1f8ca3e2571e4.jpg",
+    "static/media/healthcare.jpg": "/Expense-Tracker/static/media/healthcare.0669d463027d0e5d84fd.jpg",
+    "static/media/others.jpg": "/Expense-Tracker/static/media/others.9c946fbb139f086f4dba.jpg",
+    "static/media/empty.png": "/Expense-Tracker/static/media/empty.a32f46671ef1d89f8d0a.png",
+    "static/media/Education.png": "/Expense-Tracker/static/media/Education.cc958bba4a33a83fe586.png",
+    "static/media/shopping.png": "/Expense-Tracker/static/media/shopping.6e4dd11b01fd84529a1c.png",
+    "index.html": "/Expense-Tracker/index.html",
+    "main.e9712e2c.css.map": "/Expense-Tracker/static/css/main.e9712e2c.css.map",
+    "main.82e03c9e.js.map": "/Expense-Tracker/static/js/main.82e03c9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9712e2c.css",
+    "static/js/main.82e03c9e.js"
+  ]
+}
